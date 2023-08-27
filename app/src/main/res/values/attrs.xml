@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<declare-styleable name="ChartView">
+    <attr name="gridColor" format="color"/>
+    <attr name="pointColor" format="color"/>
+    <attr name="lineColor" format="color"/>
+    <attr name="AxisColor" format="color"/>
+    <attr name="AxisLabelColor" format="color"/>
+    <attr name="pointLegendColor" format="color"/>
+</declare-styleable>
+    
+    <attr name="chartViewStyle" format="reference"/>
+
+</resources>
